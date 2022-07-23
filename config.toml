@@ -1,0 +1,4 @@
+baseURL = 'http://docs-site.org/'
+languageCode = 'en-us'
+title = 'Docs Site'
+theme = 'docs-theme'
