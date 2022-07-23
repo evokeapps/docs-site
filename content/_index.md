@@ -1,12 +1,16 @@
 ---
 title: Docs Site
-subtitle: Comprehensive tutorials, references, example code, and more for DigitalOcean products
+subtitle: Comprehensive tutorials, references, example code, and more for DigitalOcean
+  products
 categories:
-  - name: Getting started
-    desc: Get started on DigitalOcean with curated instructions for popular use cases
-    url: 'getting-started'
----
+- name: Platform Overview
+  desc: " A summary of our offerings and what’s right for what you’re building."
+  url: platform-overview
+- name: Getting started
+  desc: Get started on DigitalOcean with curated instructions for popular use cases
+  url: getting-started
 
+---
 ### Latest updates
 
 **18 July 2022**
